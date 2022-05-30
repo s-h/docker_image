@@ -1,1 +1,1 @@
-FROM sameersbn/postgresql:latest
+FROM sameersbn/postgresql
