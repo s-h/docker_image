@@ -1,1 +1,1 @@
-FROM sameersbn/redis:latest
+FROM sameersbn/redis
